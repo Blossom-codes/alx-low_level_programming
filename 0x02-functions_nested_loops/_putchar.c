@@ -1,5 +1,6 @@
 #include "main.h"
-#include <unstd.h>
+#include <unistd.h>
+
 /**
  * main - prints _putchar, followed by a new line.
  * @c The character to print
